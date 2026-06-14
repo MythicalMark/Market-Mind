@@ -1,0 +1,23 @@
+Frontend:
+-react
+-react-dom
+-vite
+-plotly.js
+-react-plotly.js
+
+instalacija:
+Uci u frontend folder, upaliti terminal
+za osnovne biblioteke -> npm install
+za plotly -> npm install plotly.js react-plotly.js
+
+
+Backend:
+fastapi
+uvicorn
+python-multipart
+pandas
+numpy
+openpyxl
+scikit-learn
+hdbscan
+
